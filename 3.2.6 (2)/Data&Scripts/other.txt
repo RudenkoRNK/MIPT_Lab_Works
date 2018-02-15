@@ -1,0 +1,5 @@
+R0 610
+U0 1.2
+xFactor 0.001
+xErr 1
+Rcr 4500
